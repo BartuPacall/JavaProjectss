@@ -1,0 +1,9 @@
+Idman Programı...
+Burpet Sayisi : 50
+Pushup Sayisi : 50
+Situp Sayisi : 50
+Squat Sayisi : 50
+1.İşlem -------> Hareket : burpet	Sayı : 50
+2.İşlem -------> Hareket : situp	Sayı : 50
+3.İşlem -------> Hareket : pushup	Sayı : 50
+4.İşlem -------> Hareket : squat	Sayı : 50

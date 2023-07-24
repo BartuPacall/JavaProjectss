@@ -1,0 +1,45 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Bartu/OneDrive/Belgeler/NetBeansProjects/stringSinifiveMethodlari/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Bartu/OneDrive/Belgeler/NetBeansProjects/stringSinifiveMethodlari/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'stringSinifiveMethodlari 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Bartu/OneDrive/Belgeler/NetBeansProjects/stringSinifiveMethodlari/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'stringSinifiveMethodlari 1.0-SNAPSHOT API'
+'C:/Users/Bartu/OneDrive/Belgeler/NetBeansProjects/stringSinifiveMethodlari/src/main/java/Main.java'
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\src\main\java\Main.java = 1675515125990
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\src\main\java = 1675506593904
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\allclasses-frame.html = 1675695942146
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\allclasses-noframe.html = 1675695942146
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\constant-values.html = 1675695942127
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\deprecated-list.html = 1675695942145
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\help-doc.html = 1675695942152
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\index-all.html = 1675695942141
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\index.html = 1675695942148
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\Main.html = 1675695942111
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\overview-tree.html = 1675695942138
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\package-frame.html = 1675695942113
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\package-list = 1675695942112
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\package-summary.html = 1675695942118
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\package-tree.html = 1675695942121
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\package-use.html = 1675695942135
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\script.js = 1675695942155
+C:\Users\Bartu\OneDrive\Belgeler\NetBeansProjects\stringSinifiveMethodlari\target\site\apidocs\stylesheet.css = 1675695942154
